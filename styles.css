@@ -1,1 +1,84 @@
+span{
+    font-weight: 400;
+    font-size: 20px;
+}
 
+.dinfo>h1{
+    display: inline;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.dnav>img{
+    width: 120px;
+}
+
+.mc{
+    display: flex;
+}
+
+.rc>p{
+    font-size: 23px;
+    margin: 20px 10px;
+}
+
+.tools>#nums1{
+    display: inline;
+    margin-left:280px;
+}
+
+.tools>#nums2{
+    display: inline;
+    margin-left: 330px;
+}
+
+.tools>#nums3{
+    display: inline;
+    margin-left: 265px;
+}
+
+.tools>#nums4{
+    display: inline;
+    margin-left: 372px;
+}
+
+.tools{
+    margin: 10px 0px 10px 10px;
+}
+
+.tools>img{
+    width: 30px;
+    height: 30px;
+}
+
+.dfoot>h1{
+    font-size: 25px;
+    margin: 20px 0px 20px 10px;
+}
+
+.rc>h1{
+    width: 120px;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.rc{
+    width: 45%;
+    height: 600px;
+    /* border: 1px solid black; */
+    margin: 5px 0 0 5px;
+}
+
+.lc{
+    width: 45%;
+    height: 600px;
+    /* border: 1px solid black; */
+    margin: 5px 20px 0 5px;
+}
+
+.dnav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
